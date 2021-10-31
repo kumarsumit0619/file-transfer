@@ -1,2 +1,2 @@
 # file-transfer
-anyone can contribute
+Anyone can contribute. Please feel free to do so.
